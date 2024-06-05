@@ -1,1 +1,2 @@
-My friend is chakka
+Hello guys, this is my first repository.
+
